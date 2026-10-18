@@ -304,6 +304,7 @@ For linked-view workspaces:
 
 | # | Case | Rule it taught |
 |---|------|----------------|
+| 019 | [Retained node is not motion parity](cases/019-retained-node-is-not-motion-parity.md) | Compare composition and physical presentation separately from node identity |
 | 017 | [Syuze material and object continuity](cases/017-syuze-material-object-continuity.md) | Material-led paths, shared shading state, native source controls and sync ownership |
 | 001 | [Remount breaks shared layout](cases/001-remount-breaks-shared-layout.md) | One element at one tree position; `display: contents` wrappers |
 | 002 | [Fixed inside a filtered ancestor](cases/002-fixed-inside-filtered-ancestor.md) | Transformed/filtered wrappers capture `position: fixed` |
